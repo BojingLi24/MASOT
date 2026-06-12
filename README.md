@@ -1,6 +1,6 @@
 # MASCOT
 
-MASCOT (Malware Source Code Open Treasury) is the companion repository for the paper [*MASCOT: Analyzing Malware Evolution Through A Well-Curated Source Code Dataset*](./MASCOT__Malware_Evolution_Through_A_Well_curated_Source_Code_Dataset%20%282%29.pdf).
+MASCOT (Malware Source Code Open Treasury) is the companion repository for the paper [*MASCOT: Analyzing Malware Evolution Through A Well-Curated Source Code Dataset*](https://ieeexplore.ieee.org/abstract/document/11401016).
 
 This repository does not ship live malware or executables. It provides curated metadata tables, parsed labels, visualization assets, screenshots, and demo recordings used to study malware evolution through source code reuse.
 
@@ -76,11 +76,6 @@ The visualization currently ships with these key inputs:
 
 `overall_tree_vis_Deckard_final.csv` contains 277,656 project-level reuse edges, and `func_tag_result.csv` contains 115,090 function-tag rows.
 
-## External Resources
-
-- Paper PDF: [IEEE](https://ieeexplore.ieee.org/abstract/document/11401016)
-- Dataset release: [IEEE DataPort](https://ieee-dataport.org/documents/mascot)
-- Dataset mirror: [Hugging Face](https://huggingface.co/datasets/Bojing94/MASCOT)
 
 ## Citation
 
