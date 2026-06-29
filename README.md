@@ -77,6 +77,14 @@ The visualization currently ships with these key inputs:
 `overall_tree_vis_Deckard_final.csv` contains 277,656 project-level reuse edges, and `func_tag_result.csv` contains 115,090 function-tag rows.
 
 
+## Password and Research-use notice
+
+The project is intended for academic and defensive security research only. The repository snapshot is disarmed and does not include malicious executables.
+
+For safety and accidental-execution prevention, password-protected archives use the following extraction password:
+`i_assume_all_risk_opening_malware`
+
+
 ## Citation
 
 If you use this artifact, please cite the paper. A safe placeholder entry is:
